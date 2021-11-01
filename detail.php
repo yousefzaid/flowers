@@ -1,3 +1,4 @@
+<?php require_once "inc/header_in.php";?>
 <div class="row">
 <div class="col-md-6 col-lg-4">
 <div class="card">
